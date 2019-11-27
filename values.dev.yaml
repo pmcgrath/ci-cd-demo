@@ -1,0 +1,15 @@
+# These are subject to update via CI
+image:
+  digest:
+
+source:
+  branch: 1
+  commit: 2
+  repository: github.com/aginfo/agrible-platform-tools
+  shortCommit: 3
+  version: 4
+
+
+# Static values
+namespace: ci-cd-demo-test
+replicas: 2
