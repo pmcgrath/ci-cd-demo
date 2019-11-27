@@ -4,7 +4,7 @@ image:
 
 source:
   branch: MM-ABC
-  commit: 2019-11-27T22:50:48Z-commit
+  commit: 2019-11-27T23:22:42Z-commit
   repository: github.com/aginfo/agrible-platform-tools
   shortCommit: sht-cOMMIt
   version: "IMG-DIG"
