@@ -1,13 +1,13 @@
 # These are subject to update via CI
 image:
-  digest:
+  digest: IMG-DIG
 
 source:
-  branch: 1
-  commit: 2
+  branch: MM-ABC
+  commit: 2019-11-27T21:51:23Z-commit
   repository: github.com/aginfo/agrible-platform-tools
-  shortCommit: 3
-  version: 4
+  shortCommit: sht-cOMMIt
+  version: "IMG-DIG"
 
 
 # Static values
